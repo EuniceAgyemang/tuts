@@ -1,1 +1,1 @@
-This is a tutorial for Git pulling and pushing
+This is a tutorial for Git pull and push
